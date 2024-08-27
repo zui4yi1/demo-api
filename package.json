@@ -1,13 +1,13 @@
 {
-  "name": "demo-api",
+  "name": "demo-curd",
   "version": "1.0.0",
   "description": "A lightweight JavaScript library for managing local storage, providing CRUD operations for lists and dictionaries with pagination and filtering suppor",
   "main": "index.js",
   "keywords": [
     "demo",
-    "api",
-    "demo-api"
+    "curd",
+    "demo-curd"
   ],
-  "author": "zui4yi1",
+  "author": "xiehaihong",
   "license": "MIT"
 }
