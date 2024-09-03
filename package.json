@@ -1,6 +1,6 @@
 {
   "name": "demo-curd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight JavaScript library for managing local storage, providing CRUD operations for lists and dictionaries with pagination and filtering suppor",
   "main": "index.js",
   "keywords": [
