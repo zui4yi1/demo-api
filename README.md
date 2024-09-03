@@ -69,3 +69,16 @@ addItem({ name: 'New Item', description: 'A newly added item' }).then(() => cons
 ```
 
 These utilities are particularly handy for rapid prototyping, UI testing, or for developers who want to simulate backend responses during front-end development.
+
+## TypeScript Support
+
+If you are using ts, you can add the path to your tsconfig.json.
+
+```
+{
+  "compilerOptions": {
+
+    "types": ["demo-curd/types/index.d.ts"],
+
+  },
+```
